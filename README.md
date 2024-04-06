@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome!
 
 <!--
 **ALELOY257/ALELOY257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is my personal repository, and here the projects i'm working on will be uploaded
+
+### Educational background
+- Currently studying electronic engineering at ***Universidad Nacional de Colombia***
+- Volunteer at IEEE
+- Part of a student group of astronomy, cumulo UN
+- Have finished courses of data engineering, OOP, etc
+### Currently working on
+- IEEE university project, Chessbot
+- RoboCup ARM challenge
+### Currently studying 
+- Data engineering pathway
+- Matlab programming
