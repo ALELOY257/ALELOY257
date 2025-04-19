@@ -19,11 +19,12 @@ This is my personal repository, and here the projects i'm working on will be upl
 ### Educational background
 - Currently studying electronic engineering at ***Universidad Nacional de Colombia***
 - Volunteer at IEEE
-- Part of a student group of astronomy, cumulo UN
+- Part of an student group of astronomy, cumulo UN
 - Have finished courses of data engineering, OOP, etc
 ### Currently working on
 - IEEE university project, Chessbot
-- RoboCup ARM challenge
+- UPSELLerate
+- Personal projects
 ### Currently studying 
-- Data engineering pathway
-- Matlab programming
+- Data engineering 
+- Machine learning applications in science
