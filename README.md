@@ -16,15 +16,4 @@ Here are some ideas to get you started:
 -->
 This is my personal repository, and here the projects i'm working on will be uploaded
 
-### Educational background
-- Currently studying electronic engineering at ***Universidad Nacional de Colombia***
-- Volunteer at IEEE
-- Part of an student group of astronomy, cumulo UN
-- Have finished courses of data engineering, OOP, etc
-### Currently working on
-- IEEE university project, Chessbot
-- UPSELLerate
-- Personal projects
-### Currently studying 
-- Data engineering 
-- Machine learning applications in science
+Heyhey
